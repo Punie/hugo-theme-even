@@ -5,7 +5,7 @@
 // ========== Theme Color ========== //
 // Config here to change theme color
 // Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-$theme-color-config: 'Default';
+$theme-color-config: 'Cobalt Blue';
 
 // Default theme color map
 $theme-color-map: (
@@ -234,11 +234,13 @@ $code-type-list: (
   language-sql: "SQL",
   language-shell: "Shell",
 
+  language-elm: "Elm",
   language-erlang: "Erlang",
   language-go: "Go",
   language-go-html-template: "Go HTML Template",
   language-groovy: "Groovy",
   language-haskell: "Haskell",
+  language-idris: "Idris",
   language-kotlin: "Kotlin",
   language-clojure: "Clojure",
   language-less: "Less",
